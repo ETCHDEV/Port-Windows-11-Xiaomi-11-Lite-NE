@@ -21,8 +21,6 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Miscellaneous
 
-- [Optional post-install stuff](guide/postinstall-en.md)
-
 - [Project status](guide/status-en.md)
 
 - [Troubleshooting](guide/troubleshooting-en.md) (Work in Progress ⚠️)
