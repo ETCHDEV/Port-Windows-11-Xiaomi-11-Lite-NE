@@ -1,34 +1,34 @@
-<img align="right" src="https://github.com/woa-vayu/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" width="350" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.jpg" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
-# Running Windows on the POCO X3 Pro
+# Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## Project Status
 
-Beta. Most of the hardware works, but some components do not work yet.
+Only Windows boots. Nothing currently works and is work in progress. Only windows is displayed and programs launch by putting a batch script in the Startup folder. BTW Driver Debugging Works. 
 
 #### Features
 
-- [ ] Audio ```Only by USB or Bluetooth```
-- [X] Battery status
-- [x] Bluetooth
-- [x] Brightness
+- [ ] Audio
+- [ ] Battery status
+- [ ] Bluetooth
+- [ ] Brightness
 - [ ] Camera
-- [ ] Charging ```Only slow charging```
+- [ ] Charging
 - [x] Display
-- [x] GPU
-- [x] LTE ```Only SIM1; requires provisioning on every boot```
-- [ ] SD ```Very unstable, takes several attempts to be recognized```
-- [x] Touchscreen
+- [ ] GPU
+- [ ] LTE
+- [ ] SD
+- [ ] Touchscreen
 - [x] UFS
-- [x] USB
-- [x] Wi-Fi
+- [ ] USB
+- [ ] Wi-Fi ```seems to be working on mona```
 
-#### Sensors (Need to provision after installing Windows)
-- [x] Accelerometer
+#### Sensors (Currently not working on it)
+- [ ] Accelerometer
 - [ ] Fingerprint
-- [x] GPS
-- [x] Gyroscope
-- [x] Light sensor
-- [x] Magnetometer
-- [x] Proximity
+- [ ] GPS
+- [ ] Gyroscope
+- [ ] Light sensor
+- [ ] Magnetometer
+- [ ] Proximity
