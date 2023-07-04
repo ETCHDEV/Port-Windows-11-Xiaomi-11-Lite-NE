@@ -27,7 +27,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - [Troubleshooting](guide/troubleshooting-en.md) (Work in Progress ⚠️)
 
-- [Driver updating instructions](guide/update-en.md)
+- [Driver updating instructions](guide/update-en.md) (Work in Progress ⚠️)
 
 ## Contributors
 
