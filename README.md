@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/woa-vayu/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="./lisa.jpg" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
