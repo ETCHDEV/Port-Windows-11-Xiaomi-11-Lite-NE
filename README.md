@@ -14,20 +14,18 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Get Started
 
-- [Installation instructions](guide/partition-en.md)
+- [Installation instructions](guide/partition-en.md) (Work in Progress ⚠️)
 
-- [Uninstall instructions](guide/uninstall-en.md)
+- [Uninstall instructions](guide/uninstall-en.md) (Work in Progress ⚠️)
 
 
 ## Miscellaneous
-
-- [Dualboot setup](guide/dualboot-en.md)
 
 - [Optional post-install stuff](guide/postinstall-en.md)
 
 - [Project status](guide/status-en.md)
 
-- [Troubleshooting](guide/troubleshooting-en.md)
+- [Troubleshooting](guide/troubleshooting-en.md) (Work in Progress ⚠️)
 
 - [Driver updating instructions](guide/update-en.md)
 
