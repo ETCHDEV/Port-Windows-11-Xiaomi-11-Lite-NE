@@ -7,7 +7,7 @@
 
 ### Making the keyboard float
 
-> **Warning** Make sure these steps are done on the POCO X3 Pro running Windows!
+> **Warning** Make sure these steps are done on the Mi 11 Lite NE running Windows!
 
 ##### Opening the command prompt
 
