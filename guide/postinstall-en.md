@@ -1,7 +1,7 @@
-<img align="right" src="lisa.png" width="350" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.jpg" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
-# Running Windows on the POCO X3 Pro
+# Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## Optional post-install stuff
 
