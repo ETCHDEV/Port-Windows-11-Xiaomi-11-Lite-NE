@@ -1,4 +1,4 @@
-<img align="right" src="./lisa.jpg" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="./1685479766072.png " width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
