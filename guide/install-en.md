@@ -9,7 +9,7 @@
 
 - [Windows on ARM image (Windows 11 is recommended)](https://uupdump.net/)
 - [Latest UEFI image compiled from the edk2-msm source code](https://github.com/edk2-porting/edk2-msm)
-- [UEFI image for ONLY installing Windows!!](example.com)
+- [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 - [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest)
 - [Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code and Download as zip)
 
@@ -60,7 +60,7 @@ dism /apply-image /ImageFile:<path/to/install.wim> /index:1 /ApplyDir:W:\
 ### Create Windows bootloader files
 
 ```cmd
-bcdboot X:\Windows /s Y: /f UEFI
+bcdboot W:\Windows /s S: /f UEFI
 ```
 
 ### Install Drivers
@@ -95,7 +95,7 @@ diskpart
 
 ```diskpart
 select volume <number>
-remove letter x
+remove letter w
 ```
 
 #### Now select the ESP volume of the phone
@@ -103,7 +103,7 @@ remove letter x
 
 ```diskpart
 select volume <number>
-remove letter y
+remove letter s
 ```
 
 #### Exit diskpart
