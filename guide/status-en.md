@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/1685479766072.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
