@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/woa-vayu/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" width="350" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
-# Running Windows on the POCO X3 Pro
+# Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## Uninstallation
 
@@ -16,7 +16,7 @@ If you want to relock your bootloader you'll need your partition table to be sto
 ### Prerequisites
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
-- [gpt_both0.bin](../../../releases/tag/binaries)
+- [gpt_both0.bin](https://example.com)
 
 ### Restore GPT
 > Replace ```<gpt_both0.bin>``` with the path to the gpt_both0.bin file.
