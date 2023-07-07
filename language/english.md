@@ -16,7 +16,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - Have the bootloader unlocked
 
-- Have TWRP/OF or any custom recovery that supports adb and device/installed ROM encryption. You can Find it on [XDA Forums](https://forum.xda-developers.com/f/xiaomi-11-lite-5g-ne.12519/)
+- Have TWRP/OF or any custom recovery that supports adb and device/installed ROM encryption. You can find it on [XDA Forums](https://forum.xda-developers.com/f/xiaomi-11-lite-5g-ne.12519/)
 
 - Have downloaded the [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
 
