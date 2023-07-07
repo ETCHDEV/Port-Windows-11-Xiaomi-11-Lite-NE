@@ -26,7 +26,7 @@ Este proyecto se encuentra en una etapa inicial, todos los archivos aquí han si
 
 - Tener el script de [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (Este archivo pertenece a [Gus33000](https://github.com/gus33000))
 
-- Tener la [Uefi del X3 NFC](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/releases/tag/Uefi)
+- Tener la [Uefi del Lisa](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1)
 
 - Tener los [Drivers](https://github.com/Icesito68/7xx-Drivers) y el [Instalador](https://github.com/WOA-Project/DriverUpdater/releases/)
 
