@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/wormstest/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" width="350" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png " width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
 
+# Windows en el Mi 11 Lite NE/Mi 11 LE
 
-# Windows en el POCO X3 NFC
 
 ## ⚠️ Advertencia
 
