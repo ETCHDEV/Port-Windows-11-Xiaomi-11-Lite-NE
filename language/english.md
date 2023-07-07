@@ -1,11 +1,11 @@
-<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png " width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png " width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## ⚠️ Warning
 
-We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline workers cowboys, dead microSD cards, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi/poco shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
+We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline workers cowboys, dead microSD cards, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back in to android for the alarm.
 
 This project is in an early stage, all the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
@@ -16,7 +16,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - Have the bootloader unlocked
 
-- Have the [TWRP]( ) installed
+- Have TWRP/OF or any custom recovery that supports adb and device/installed ROM encryption. You can Find it on [XDA Forums](https://forum.xda-developers.com/f/xiaomi-11-lite-5g-ne.12519/)
 
 - Have downloaded the [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
 
@@ -26,7 +26,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 - Have the script of [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (This file belongs to [Gus33000](https://github.com/gus33000 ) )
 
-- Have the [Lisa Uefi](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1)
+- Have the [Lisa Uefi](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1) (Only for installing Windows!!!)
 
 - Have the [Drivers](https://github.com/Icesito68/7xx-Drivers) and the [Installer](https://github.com/WOA-Project/DriverUpdater/releases/)
 
