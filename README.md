@@ -12,20 +12,11 @@ This project is in an early stage, all the files here have been contributed by o
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
 
-## Get Started
+## Choose you language
 
-- [Installation instructions](guide/partition-en.md) (Work in Progress ⚠️)
+- [English](language/english.md)
 
-- [Uninstall instructions](guide/uninstall-en.md) (Work in Progress ⚠️)
-
-
-## Miscellaneous
-
-- [Project status](guide/status-en.md)
-
-- [Troubleshooting](guide/troubleshooting-en.md) (Work in Progress ⚠️)
-
-- [Driver updating instructions](guide/update-en.md) (Work in Progress ⚠️)
+- [Español](language/español.md)
 
 ## Contributors
 
