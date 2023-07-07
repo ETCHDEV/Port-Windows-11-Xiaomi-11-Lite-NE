@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
@@ -11,7 +11,7 @@
 - [Latest UEFI image compiled from the edk2-msm source code](https://github.com/edk2-porting/edk2-msm)
 - [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 - [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest)
-- [Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code and Download as zip)
+- [Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code arrow and Download as zip)
 
 #### Boot into modified UEFI img using the following command:
 ```cmd
