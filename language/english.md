@@ -16,19 +16,19 @@ This project is in an early stage, all the files here have been contributed by o
 
 - Have the bootloader unlocked
 
-- Have TWRP/OF or any custom recovery that supports adb and device/installed ROM encryption. You can find it on [XDA Forums](https://forum.xda-developers.com/f/xiaomi-11-lite-5g-ne.12519/)
+- Have TWRP/OF or any custom recovery that supports adb and device/installed ROM encryption. You can find it on [XDA Forums](https://forum.xda-developers.com/f/xiaomi-11-lite-5g-ne.12519/).
 
-- Have downloaded the [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
+- Have downloaded the [Platform Tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419).
 
-- Have a [Windows 11 Arm ISO](https://uupdump.net/)
+- Have a [Windows 11 Arm ISO](https://uupdump.net/).
 
-- Have [Parted](https://www.mediafire.com/file/s9bjano4pezphou/parted/file) (This file belongs to [Gus33000](https://github.com/gus33000))
+- Have [Parted](https://www.mediafire.com/file/s9bjano4pezphou/parted/file) (This file belongs to [Gus33000](https://github.com/gus33000)).
 
-- Have the script of [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (This file belongs to [Gus33000](https://github.com/gus33000 ) )
+- Have the script of [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (This file belongs to [Gus33000](https://github.com/gus33000) ).
 
-- Have the [Lisa Uefi](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1) (Only for installing Windows!!!)
+- Have the [Lisa Uefi](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1) (Only for installing Windows!!!).
 
-- Have the [Drivers](https://github.com/Icesito68/7xx-Drivers) and the [Installer](https://github.com/WOA-Project/DriverUpdater/releases/)
+- Have the [Drivers](https://github.com/Icesito68/7xx-Drivers) and the [Installer](https://github.com/WOA-Project/DriverUpdater/releases/).
 
   </summary>
 </details>
