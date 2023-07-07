@@ -21,7 +21,7 @@ This project is in an early stage, all the files here have been contributed by o
 ## Contributors
 
 [<img alt="Renegade Project" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63859504?s=200&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/edk2-porting)
-[<img alt="ETCHDEV" src="https://images.weserv.nl/?url=https://https://avatars.githubusercontent.com/u/62027777?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
+[<img alt="ETCHDEV" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62027777?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/ETCHDEV)
 [<img alt="Icesito68" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113939920?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Icesito68)
 [<img alt="Renegade Project Discord Members" src="https://images.weserv.nl/?url=https://cdn.discordapp.com/icons/736563593058713690/68f67bfddf4390b11effc99917b16338.webp?size=256&w=45&fit=cover&mask=circle&maxage=7d" />](https://discord.gg/XXBWfag)
 
