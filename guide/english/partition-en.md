@@ -125,4 +125,4 @@ then type `yes`.
 
 ### The hard part is done!!, Now go to
 
-## [Next step: Installing Windows](/guide/install-en.md)
+## [Next step: Installing Windows](./install-en.md)
