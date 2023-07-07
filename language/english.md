@@ -36,7 +36,7 @@ This project is in an early stage, all the files here have been contributed by o
 
 ## Get Started
 
-- [Installation instructions](../guide/english/install-en.md)
+- [Installation instructions](../guide/english/partition-en.md)
 
 - [Uninstall instructions](../guide/english/uninstall-en.md)
 
