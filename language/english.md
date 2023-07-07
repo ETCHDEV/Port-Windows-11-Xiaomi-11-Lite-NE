@@ -37,6 +37,12 @@ This project is in an early stage, all the files here have been contributed by o
 ## Get Started
 
 - [Installation instructions](../guide/english/partition-en.md)
-
 - [Uninstall instructions](../guide/english/uninstall-en.md)
+
+## Miscellaneous
+
+- [Project Status](../guide/english/status-en.md)
+- [Troubleshooting](../guide/english/troubleshooting-en.md)
+- [Driver Updating Instructions](../guide/english/update-en.md)
+
 
