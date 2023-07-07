@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="350" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
@@ -11,24 +11,24 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 
 - [ ] Audio
 - [ ] Battery status
-- [ ] Bluetooth
+- [ ] Bluetooth (Seems to be working on mona) (Working on it) 
 - [ ] Brightness
 - [ ] Camera
 - [ ] Charging
 - [x] Display
-- [ ] GPU
+- [ ] GPU (Drivers not working/BSOD)
 - [ ] LTE
 - [ ] SD
-- [ ] Touchscreen
+- [ ] Touchscreen (No drivers avaliable)
 - [x] UFS
-- [ ] USB
-- [ ] Wi-Fi ```seems to be working on mona```
+- [ ] USB (Working on it, only debugging is working)
+- [ ] Wi-Fi (Seems to be working on mona) (Working on it) 
 
-#### Sensors (Currently not working on it)
+#### Sensors
 - [ ] Accelerometer
 - [ ] Fingerprint
 - [ ] GPS
 - [ ] Gyroscope
 - [ ] Light sensor
 - [ ] Magnetometer
-- [ ] Proximity
+- [ ] Proximity (Not avaliable on lisa)
