@@ -37,4 +37,4 @@ Este proyecto se encuentra en una etapa inicial, todos los archivos aquí han si
 
 - [Instrucciones para instalar](../guide/español/particiones.md)
 
-- [Instrucciones para desinstalar](https://github.com/SebastianZSXS/Poco-X3-NFC-WindowsARM/blob/main/guide/Espa%C3%B1ol/desinstalar.md)
+- [Instrucciones para desinstalar](../guide/español/desinstalar.md)
