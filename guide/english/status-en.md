@@ -11,18 +11,18 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 
 - [ ] Audio
 - [ ] Battery status
-- [ ] Bluetooth (Seems to be working on mona) (Working on it) 
+- [ ] Bluetooth `Seems to be working on mona` `Work in Progress`
 - [ ] Brightness
 - [ ] Camera
 - [ ] Charging
 - [x] Display
-- [ ] GPU (Drivers not working/BSOD)
+- [ ] GPU `Drivers not working/BSOD`
 - [ ] LTE
 - [ ] SD
-- [ ] Touchscreen (No drivers avaliable)
+- [ ] Touchscreen `No drivers avaliable`
 - [x] UFS
-- [ ] USB (Working on it, only debugging is working)
-- [ ] Wi-Fi (Seems to be working on mona) (Working on it) 
+- [ ] USB `Working in Progress, only debugging is working`
+- [ ] Wi-Fi `Seems to be working on mona` `Work in Progress` 
 
 #### Sensors
 - [ ] Accelerometer
@@ -31,4 +31,4 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] Gyroscope
 - [ ] Light sensor
 - [ ] Magnetometer
-- [ ] Proximity (Not avaliable on lisa)
+- [ ] Proximity `Not avaliable on lisa`
