@@ -1,7 +1,7 @@
-<img align="right" src="https://github.com/woa-vayu/src_vayu_windows/blob/main/2Poco X3 Pro Windows.png" width="350" alt="Windows 11 Running On A Poco X3 Pro">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
-# Running Windows on the POCO X3 Pro
+# Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## Troubleshooting Issues
 
@@ -11,27 +11,29 @@
 ### Prerequisites:
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
+- [parted for patitioning the storage](https://www.mediafire.com/file/s9bjano4pezphou/parted/file)
 
 This is caused by partitions with volume names the bootloader cannot handle, to fix this:
 
-- Boot to recovery
+- Boot to TWRP/OF or any custom recovery that supports device encryption/can access data partition and has adb support
 
-- Connect phone to PC
+- Copy the parted to the phone and enter adb shell using following commands:
+```cmd
+adb push parted /cache/
+adb shell "chmod 755 /cache/parted"
+adb shell
+```
 
-- Open cmd on PC
-
-- Run ```adb shell```
-
-- Run ```parted```
+- Start parted
+```sh
+cd /cache
+./parted /dev/block/sda
+```
 
 - Run ```print``` to list all partitions
 
-- Look for partitions that have spaces in the names e.g "Basic Data Partition" and note their volume number
+- Look for partitions that have spaces in the names e.g "Basic Data Partition"/(with spaces) and note their volume number
 
-- Now run ```rm <vol number>``` e.g ```rm 36```
+- Now run ```rm <vol number>``` e.g ```rm 35``` (Make sure you deleted both the windows partitons created)
 
-
-
-## Touchscreen touches are inaccurate/upside down
-
-You picked the wrong definitions file while installing drivers.
+- If you deleted the partiton 34 and 35, follow the [Installation Guide](./partition-en.md) from Create the ESP partition step (Depending weather your device is 128GB or 256GB)

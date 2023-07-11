@@ -49,7 +49,7 @@ cd /cache
 rm 33
 ```
 
-##### Create partitions
+##### Creating the partitions
 > If you get any warning message telling you to ignore or cancel, just type i and press Enter
 
 <details>
