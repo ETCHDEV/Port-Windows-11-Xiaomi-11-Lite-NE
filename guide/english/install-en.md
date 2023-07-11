@@ -76,7 +76,10 @@ bcdboot W:\Windows /s S: /f UEFI
 ## Allow unsigned drivers
 
 > If you don't do this you'll get a BSOD
+
+>  S: is the ESP partition
 ```cmd
+cd S:\EFI\Microsoft\Boot
 bcdedit /store BCD /set "{default}" testsigning on
 bcdedit /store BCD /set "{default}" nointegritychecks on
 bcdedit /store BCD /set "{default}" recoveryenabled no
