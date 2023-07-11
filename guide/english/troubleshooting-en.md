@@ -32,7 +32,7 @@ cd /cache
 
 - Run ```print``` to list all partitions
 
-- Look for partitions that have spaces in the names e.g "Basic Data Partition"/(with spaces) and note their volume number
+- Look for partitions that have spaces in the names e.g "Basic Data Partition" and note their volume number
 
 - Now run ```rm <vol number>``` e.g ```rm 35``` (Make sure you deleted both the windows partitons created)
 

@@ -7,7 +7,7 @@
 
 ### Prerequisites
 
-- [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
+- [UEFI image for ONLY mounting partition!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 - [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest)
 - [Updated Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code arrow and Download as zip)
 
@@ -26,12 +26,14 @@ diskpart
 ```
 
 ### Assigning Mount Letter to Windows and BOOT Volumes
+
 #### Select the Windows volume of the phone
 > Use `list volume` to find it, it's the one named "WINLISA". Note the vol no.
 ```diskpart
 select volume <number>
 assign letter=w
 ```
+
 #### Now exit diskpart
 ```diskpart
 exit
@@ -46,8 +48,28 @@ exit
 .\driverupdater.exe -d <lisadriversfolder>\components\QC7325\Platform -r <lisadriversfolder> -p W:
 ```
 
+### Unassign disk letters
+> So that they don't stay there after disconnecting the device
 
-### Now you can Boot to Windows, first startup after installing drivers may take some time (like getting the Getting Ready message)
+Open CMD as Administrator:
+```cmd
+diskpart
+```
+
+#### Unassigning Volumes of the phone:
+> Use `list volume` to find it, it's the one named "WINLISA"
+
+```diskpart
+select volume <number>
+remove letter w
+```
+
+#### Exit diskpart
+```diskpart
+exit
+```
+
+### Now you can Boot to Windows, first startup after installing drivers may take some time
 
 
 ## Finished!!

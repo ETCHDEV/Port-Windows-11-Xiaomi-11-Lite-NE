@@ -28,6 +28,7 @@ diskpart
 ```
 
 ### Assigning Mount Letter to Windows and BOOT Volumes
+
 #### Select the Windows volume of the phone
 > Use `list volume` to find it, it's the one named "WINLISA". Note the vol no.
 ```diskpart
