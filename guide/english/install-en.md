@@ -70,7 +70,7 @@ bcdboot W:\Windows /s S: /f UEFI
 
 >Extract the zip file downloaded 
 ```cmd
-.\driverupdater.exe -d <lisadriversfolder>\components\QC7325\Platform -r <lisadriversfolder> -p W:
+.\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\lisa.txt -r <lisadriversfolder> -p W:
 ```
   
 ## Allow unsigned drivers
