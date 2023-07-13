@@ -27,7 +27,7 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 #### Sensors
 - [ ] Accelerometer
 - [ ] Fingerprint
-- [ ] GPS
+- [x] GPS
 - [ ] Gyroscope
 - [ ] Light sensor
 - [ ] Magnetometer
