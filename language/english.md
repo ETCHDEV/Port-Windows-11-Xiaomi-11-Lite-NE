@@ -37,5 +37,6 @@ This project is in an early stage, all the files here have been contributed by o
 - [Project Status](../guide/english/status-en.md)
 - [Troubleshooting](../guide/english/troubleshooting-en.md)
 - [Driver Updating Instructions](../guide/english/update-en.md)
+- [Controlling Windows using RDP](../guide/english/rdp-en.md)
 
 
