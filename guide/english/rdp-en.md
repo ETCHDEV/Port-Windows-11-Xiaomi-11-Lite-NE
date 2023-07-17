@@ -24,27 +24,38 @@ fastboot boot boot-lisa-install.img
 diskpart
 ```
 
-### Assigning Mount Letter to BOOT Volume
-#### Select the BOOT volume of the phone
+### Assigning Mount Letter to Windows and BOOT Volumes
+
+#### Select the Windows volume of the phone
+> Use `list volume` to find it, it's the one named "WINLISA". Note the vol no.
+```diskpart
+select volume <number>
+assign letter=w
+```
+#### Now select the ESP volume of the phone
 > Use `list volume` to find it, it's the one named "ESPLISA". Note the vol no.
+
 ```diskpart
 select volume <number>
 assign letter=s
 ```
-
 #### Now exit diskpart
 ```diskpart
 exit
 ```
 
+### Skipping the OOBE and enabling RDP
+- Copy the unattend.xml inside ```W:\Windows\Panther``` folder. (You may have to create the Panther folder)
+
 ### Enabling KDNET and debugging
+> Open CMD as Admininstrator
 ```cmd
 cd S:\EFI\Microsoft\Boot\
 bcdedit /store BCD /dbgsettings NET BUSPARAMS:1 KEY:1.2.3.4 HOSTIP:169.254.255.255 PORT:50000 NODHCP
 bcdedit /store BCD /set {default} debug on
 ```
 
-### Unassign BOOT disk letter
+### Unassign disk letters
 > So that they don't stay there after disconnecting the device
 
 Open CMD as Administrator:
@@ -52,12 +63,24 @@ Open CMD as Administrator:
 diskpart
 ```
 
-#### Unassigning BOOT volume of the phone:
+#### Unassigning Volumes of the phone:
+> Use `list volume` to find it, it's the one named "WINLISA"
+
+```diskpart
+select volume <number>
+remove letter w
+```
+
+#### Now select the ESP volume of the phone
 > Use `list volume` to find it, it's the one named "ESPLISA"
 
 ```diskpart
 select volume <number>
 remove letter s
+```
+
+#### Exit diskpart
+```diskpart
 exit
 ```
 
@@ -65,9 +88,9 @@ exit
 - After booting to desktop, connect the phone to the PC and open WinDbg
 - Now, click on Attach to Kernel, Under Net define port as 50000 and Key as 1.2.3.4. Check Break on Connection
 - After initial break, type ```!process 0 1``` after ```kd>``` and then after 30 sec click on break.
-- Click one of the PEB id and you will get a Computer Name Like ```PHONE-random character```
+- Click one of the PEB id and you will get a Computer Name Like ```PHONE-'random characters'```
 - After that reboot windows by long pressing both vol down and power and booting off the latest UEFI image.
-- After again when on desktop, connect the phone and put the computer name in your faviourite RDP client.
+- After again when on desktop, connect the phone and put the computer name in your favourite RDP client.
 
 ## Congrats!, now you can control windows and debug drivers.
 
