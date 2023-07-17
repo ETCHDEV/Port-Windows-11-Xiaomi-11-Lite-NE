@@ -57,7 +57,7 @@ diskpart
 
 ```diskpart
 select volume <number>
-remove letter w
+remove letter s
 exit
 ```
 
