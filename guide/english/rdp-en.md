@@ -67,7 +67,7 @@ exit
 - After initial break, type ```!process 0 1``` after ```kd>``` and then after 30 sec click on break.
 - Click one of the PEB id and you will get a Computer Name Like ```PHONE-random character```
 - After that reboot windows by long pressing both vol down and power and booting off the latest UEFI image.
-- After againg when on desktop, connect the phone and put the computer name in your faviourite RDP client.
+- After again when on desktop, connect the phone and put the computer name in your faviourite RDP client.
 
 ## Congrats!, now you can control windows and debug drivers.
 
