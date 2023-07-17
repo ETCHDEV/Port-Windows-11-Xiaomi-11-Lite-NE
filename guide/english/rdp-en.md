@@ -6,8 +6,8 @@
 ## Controlling phone over RDP
 
 ### Prerequisites
-- [unattend.xml]()(For skipping OOBE and setting up RDP)
-- [WinDbg]()(For accessing the computer name to put in the RDP)
+- [unattend.xml](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/unattend.xml) (For skipping OOBE and setting up RDP)
+- [WinDbg](https://aka.ms/windbg/download) (For accessing the computer name to put in the RDP)
 - [UEFI image for ONLY mounting partition!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 
 #### Boot into modified UEFI img using the following command:
