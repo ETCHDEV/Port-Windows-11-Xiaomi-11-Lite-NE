@@ -13,6 +13,8 @@
 
 - [Русский](language/русский.md)
 
+- [Polski](language/polski.md)
+
 ## Contributors
 
 [<img alt="Renegade Project" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63859504?s=200&v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/edk2-porting)
