@@ -16,7 +16,7 @@
 - All your data will be erased! Backup now if needed.
 - These commands have been not been completely tested (Only for the 256GB varient device)
 - Do not run the same command twice.
-- DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help in the Renegade Telegram.
+- DO NOT REBOOT YOUR PHONE if you think you made a mistake, ask for help on my Telegram.
 
 #### ⚠️ Do not run all commands at once, execute them in order!
 
