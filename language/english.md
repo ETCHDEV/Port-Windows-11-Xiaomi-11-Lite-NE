@@ -1,3 +1,4 @@
+# ⚠️NOTE!: NOTE: Development is Stalled due to ACPI Driver development. So if anyone is interested, please help with the ACPI Driver.
 <img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png " width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
 
