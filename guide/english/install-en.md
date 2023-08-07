@@ -55,7 +55,7 @@ exit
 > Since the touch on the device doesn't work, you have to use tools like NTlite to edit the ISO to make a local Administration account.
 
 ```cmd
-dism /apply-image /ImageFile:<path/to/install.wim> /index:1 /ApplyDir:W:\
+dism /apply-image /ImageFile:<path/to/install.wim> /index:2 /ApplyDir:W:\
 ```
 
 ### Create Windows bootloader files
