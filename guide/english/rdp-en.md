@@ -45,7 +45,7 @@ exit
 ```
 
 ### Skipping the OOBE and enabling RDP
-- Copy the unattend.xml inside ```W:\Windows\Panther``` folder. (You may have to create the Panther folder)
+- Copy the unattend.xml inside ```W:\Windows\Panther``` folder. (You may have to create the ```Panther``` folder)
 
 ### Enabling KDNET and debugging
 > Open CMD as Admininstrator
