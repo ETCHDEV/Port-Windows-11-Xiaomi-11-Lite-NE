@@ -36,6 +36,7 @@ This project is in an early stage, all the files here have been contributed by o
 ## Miscellaneous
 
 - [Project Status](../guide/english/status-en.md)
+- [Current Status of the Windows Port (In Detail)](../guide/english/windows-status-en.md)
 - [Troubleshooting](../guide/english/troubleshooting-en.md)
 - [Driver Updating Instructions](../guide/english/update-en.md)
 - [Controlling Windows using RDP](../guide/english/rdp-en.md)
