@@ -17,8 +17,8 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] Charging
 - [x] Display
 - [ ] GPU `Drivers not working/BSOD`
-- [ ] LTE
-- [ ] SD
+- [ ] LTE `5G ACPI Module gets recognized but no cellular`
+- [ ] SD `The SD Card Module gets recognized but no SD Card got recognized`
 - [ ] Touchscreen `No drivers avaliable`
 - [x] UFS
 - [ ] USB `Working in Progress, only debugging is working`
