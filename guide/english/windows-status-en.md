@@ -3,6 +3,8 @@
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
+## Project Status
+
 | Feature             | Description | Working state |
 |---------------------|-------------|---------------|
 | 📦 UFS                 |             | ✅             |
