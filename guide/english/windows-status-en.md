@@ -1,9 +1,15 @@
-<img align="right" src="./lisa.png " width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
+<img align="right" src="https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/lisa.png" width="200" alt="Windows 11 Running On a Mi 11 Lite NE">
+
+
 
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
 ## Project Status
+
+### The PEP Driver is the main issue since it BSOD the OS!!!!  
+
+
 
 | Feature             | Description | Working state |
 |---------------------|-------------|---------------|
