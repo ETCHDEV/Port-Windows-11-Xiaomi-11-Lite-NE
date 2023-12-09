@@ -72,6 +72,11 @@ bcdboot W:\Windows /s S: /f UEFI
 ```cmd
 .\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\lisa.txt -r <lisadriversfolder> -p W:
 ```
+
+>Or if you are in the folder
+```cmd
+.\driverupdater.exe -d definitions\Desktop\ARM64\Internal\lisa.txt -r . -p W:
+```
   
 ## Allow unsigned drivers
 
