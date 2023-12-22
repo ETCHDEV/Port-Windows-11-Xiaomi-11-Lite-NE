@@ -10,6 +10,7 @@
 ### Prerequisites
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 - [parted for patitioning the storage](https://www.mediafire.com/file/s9bjano4pezphou/parted/file)
+- [Recovery](https://xdaforums.com/t/unofficial-recovery-twrp-recovery-a14-tested.4557313)
 
 ### Notes:
 > **Warning** if you ever delete any partitions via diskpart, Windows will send a UFS command which would erase the entire UFS storage!
