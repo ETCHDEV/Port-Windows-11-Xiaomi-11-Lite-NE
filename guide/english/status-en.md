@@ -19,9 +19,9 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] GPU `Drivers not working/BSOD`
 - [ ] LTE `5G ACPI Module gets recognized but no cellular`
 - [ ] SD `The SD Card Module gets recognized but no SD Card got recognized`
-- [ ] Touchscreen `No drivers avaliable`
+- [ ] Touchscreen `PEP not working`
 - [x] UFS
-- [ ] USB `Working in Progress, only debugging is working`
+- [x] USB `USB Host and Guest Mode Works. Requires changing Dxes`
 - [ ] Wi-Fi `Seems to be working on mona` `Work in Progress` 
 
 #### Sensors
