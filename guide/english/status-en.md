@@ -21,7 +21,7 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] SD `The SD Card Module gets recognized but no SD Card got recognized`
 - [ ] Touchscreen `PEP not working`
 - [x] UFS
-- [x] USB `USB Host and Guest Mode Works. Requires changing Dxes`
+- [x] USB `USB Host and Guest Mode Works. Requires changing Dxes and External Power for host mode`
 - [ ] Wi-Fi `Seems to be working on mona` `Work in Progress` 
 
 #### Sensors
