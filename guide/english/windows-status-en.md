@@ -17,7 +17,7 @@
 | 📲 Display Panel       |             | ✅             |
 | ⌨️ Side buttons        |             | ✅             |
 | 📌 GPS                 | Sensor is detected | ✅ |
-| 🪵 USB C               | Only KDNET Debugging over USB is working | ⚠️             |
+| 🪵 USB C               | Host and Guest Works but requires DXE changing. (External Power required for host mode)| ⚠️             |
 | 🧮 SoC Cores           | Only one core working | ⚠️             |
 | 🧭 Sensors             | Only Location working | ⚠️             |
 | 👆 Multi Touch    | Touch Driver and PEP Driver Fixes |  ❌            |
