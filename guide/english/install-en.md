@@ -67,6 +67,7 @@ bcdboot W:\Windows /s S: /f UEFI
 ### Install Drivers
 
 > Replace `<lisadriversfolder>` with the actual location of the drivers folder
+> Due to Some issues with DriverUpdater, do this after RDP if you want RDP
 
 >Extract the zip file downloaded 
 ```cmd
@@ -132,5 +133,5 @@ fastboot boot boot-lisa.img
 (I wouldn't recommend to flash the uefi img to boot because currently there is no support for majority of the device hardware and their drivers)
 
 ### You can launch programs by placing a batch script in startup folder.
-
+### OR use [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
 ## Finished!
