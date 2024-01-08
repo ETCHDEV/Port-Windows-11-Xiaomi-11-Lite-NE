@@ -52,8 +52,6 @@ exit
 > `install.wim` is located in sources folder inside your ISO (it might also be named `install.esd`), 
 > You can get it either by mounting or extracting the ISO.
 
-> Since the touch on the device doesn't work, you have to use tools like NTlite to edit the ISO to make a local Administration account.
-
 ```cmd
 dism /apply-image /ImageFile:<path/to/install.wim> /index:2 /ApplyDir:W:\
 ```
@@ -91,6 +89,10 @@ bcdedit /store BCD /set "{default}" nointegritychecks on
 bcdedit /store BCD /set "{default}" recoveryenabled no
 bcdedit /store BCD /set "{default}" bootstatuspolicy IgnoreAllFailures
 ```
+
+### Using RDP to control
+
+Use the following guide: [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
 
 ### Unassign disk letters
 > So that they don't stay there after disconnecting the device
