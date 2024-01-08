@@ -65,6 +65,7 @@ bcdboot W:\Windows /s S: /f UEFI
 ### Install Drivers
 
 > Replace `<lisadriversfolder>` with the actual location of the drivers folder
+
 > Due to Some issues with DriverUpdater, do this after RDP if you want RDP
 
 >Extract the zip file downloaded 
