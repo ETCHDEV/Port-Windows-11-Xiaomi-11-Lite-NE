@@ -11,7 +11,7 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 
 - [ ] Audio
 - [ ] Battery status
-- [ ] Bluetooth `Seems to be working on mona` `Work in Progress`
+- [x] Bluetooth
 - [ ] Brightness
 - [ ] Camera
 - [ ] Charging
