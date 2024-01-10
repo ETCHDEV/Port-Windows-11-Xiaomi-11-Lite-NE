@@ -16,8 +16,9 @@
 | 📦 UFS                 |             | ✅             |
 | 📲 Display Panel       |             | ✅             |
 | ⌨️ Side buttons        |             | ✅             |
+| 🔵 Bluetooth           |  |    ✅          |
 | 📌 GPS                 | Sensor is detected | ✅ |
-| 🪵 USB C               | Host and Guest Works but requires DXE changing. (External Power required for host mode)| ⚠️             |
+| 🪵 USB C               | Host and Guest Works but requires DXE changing. (External Power required for host mode)|   ✅           |
 | 🧮 SoC Cores           | Only one core working | ⚠️             |
 | 🧭 Sensors             | Only Location working | ⚠️             |
 | 👆 Multi Touch    | Touch Driver and PEP Driver Fixes |  ❌            |
@@ -25,7 +26,6 @@
 | 🔋 Battery             | PEP Driver and ACPI Fixes       | ❌             |
 | 💤 Modern Standby      | Unknown | ❌             |
 | 🔌 Charger             | PEP Driver and ACPI Fixes | ❌             |
-| 🔵 Bluetooth           | PEP Driver and ACPI Fixes | ❌             |
 | 📳 Vibration motor     | PEP Driver and ACPI Fixes | ❌             |
 | 📽️ Miracast            | Requires GPU and requires WiFi | ❌             |
 | ♋ WiFi                | Requires PCIe and PEP Driver Fixes | ❌             |
