@@ -8,7 +8,7 @@
 ### Prerequisites
 
 - [Windows on ARM image (Windows 11 is recommended)](https://uupdump.net/)
-- [Latest UEFI image compiled from the edk2-msm source code](https://github.com/edk2-porting/edk2-msm)
+- [Latest UEFI image from release](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases)
 - [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 - [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest)
 - [Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code arrow and Download as zip)
@@ -66,7 +66,7 @@ bcdboot W:\Windows /s S: /f UEFI
 
 > Replace `<lisadriversfolder>` with the actual location of the drivers folder
 
-> Due to Some issues with DriverUpdater, do this after RDP if you want RDP
+>If you want RDP, Follow this after the first boot
 
 >Extract the zip file downloaded 
 ```cmd
@@ -127,7 +127,12 @@ exit
 ```
 
 ## Boot into Windows
-### Now boot into the lastest compiled UEFI img:
+### Now boot into the lastest UEFI img:
+
+> Use boot-lisa-device.img for device mode (or you need RDP and WinDbg)
+
+> Use boot-lisa-host.img for Host Mode (If you want to connect USB devices like USB Mouse)
+
 ```cmd
 fastboot boot boot-lisa.img
 ```
@@ -137,6 +142,10 @@ fastboot boot boot-lisa.img
 ### If Windows rebooted after the setup to android, just go into fastboot the boot the img.
 (I wouldn't recommend to flash the uefi img to boot because currently there is no support for majority of the device hardware and their drivers)
 
-### You can launch programs by placing a batch script in startup folder.
+### Use boot-lisa-device.img for device mode (or you need RDP and WinDbg)
+### Use boot-lisa-host.img for Host Mode (If you want to connect USB devices)
+
+### You can launch programs by placing a batch script in startup folder. (Not required if usb host enabled
 ### OR use [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
+(Dont use this if usb host required)
 ## Finished!
