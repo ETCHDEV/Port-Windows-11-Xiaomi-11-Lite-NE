@@ -12,6 +12,8 @@
 
 > Due to issues with DriverUpdater, install drivers after doing RDP setup and rebooting after you see desktop
 
+> Don't use boot-lisa-host.img for this
+
 #### Boot into modified UEFI img using the following command:
 ```cmd
 fastboot boot boot-lisa-install.img
