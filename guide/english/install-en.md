@@ -93,6 +93,8 @@ bcdedit /store BCD /set "{default}" bootstatuspolicy IgnoreAllFailures
 
 ### Using RDP to control
 
+> Don't use this if you want USB Host
+
 Use the following guide: [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
 
 ### Unassign disk letters
