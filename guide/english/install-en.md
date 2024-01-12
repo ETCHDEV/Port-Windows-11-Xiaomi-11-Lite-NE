@@ -145,7 +145,8 @@ fastboot boot boot-lisa.img
 ### Use boot-lisa-device.img for device mode (or you need RDP and WinDbg)
 ### Use boot-lisa-host.img for Host Mode (If you want to connect USB devices)
 
-### You can launch programs by placing a batch script in startup folder. (Not required if usb host enabled
+### You can launch programs by placing a batch script in startup folder. (Not required if usb host enabled)
+
 ### OR use [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
-(Dont use this if usb host required)
+(Don't use this method if usb host required)
 ## Finished!
