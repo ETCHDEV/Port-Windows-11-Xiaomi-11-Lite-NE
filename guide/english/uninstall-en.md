@@ -26,5 +26,3 @@ fastboot flash partition:0 <gpt_both0.bin>
 fastboot -w
 ```
 
-### OR
-####  Flash the stock rom using fastboot and Mi Flash Tool
