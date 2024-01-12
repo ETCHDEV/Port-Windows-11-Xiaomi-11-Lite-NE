@@ -129,12 +129,12 @@ exit
 ## Boot into Windows
 ### Now boot into the lastest UEFI img:
 
-> Use boot-lisa-device.img for device mode (or you need RDP and WinDbg)
+> Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)
 
-> Use boot-lisa-host.img for Host Mode (If you want to connect USB devices like USB Mouse)
+> Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices like USB Mouse)
 
 ```cmd
-fastboot boot boot-lisa.img
+fastboot boot path/to/boot-lisa-*.img
 ```
 
 ### Select the first Windows Option to boot
@@ -142,8 +142,8 @@ fastboot boot boot-lisa.img
 ### If Windows rebooted after the setup to android, just go into fastboot the boot the img.
 (I wouldn't recommend to flash the uefi img to boot because currently there is no support for majority of the device hardware and their drivers)
 
-### Use boot-lisa-device.img for device mode (or you need RDP and WinDbg)
-### Use boot-lisa-host.img for Host Mode (If you want to connect USB devices)
+### Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)
+### Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices)
 
 ### You can launch programs by placing a batch script in startup folder. (Not required if usb host enabled)
 
