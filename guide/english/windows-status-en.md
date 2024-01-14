@@ -18,7 +18,7 @@
 | ⌨️ Side buttons        |             | ✅             |
 | 🔵 Bluetooth           |  |    ✅          |
 | 📌 GPS                 | Sensor is detected | ✅ |
-| 🪵 USB C               | Host and Guest Works but requires DXE changing. (External Power required for host mode)|   ✅           |
+| 🪵 USB C               | Host and Guest Works but requires DXE changing. (External Power required for host mode)|   ⚠️           |
 | 🧮 SoC Cores           | Only one core working | ⚠️             |
 | 🧭 Sensors             | Only Location working | ⚠️             |
 | 👆 Multi Touch    | Touch Driver and PEP Driver Fixes |  ❌            |
