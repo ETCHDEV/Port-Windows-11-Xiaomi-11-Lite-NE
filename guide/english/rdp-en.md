@@ -10,7 +10,7 @@
 - [WinDbg](https://aka.ms/windbg/download) (For accessing the computer name to put in the RDP)
 - [UEFI image for ONLY mounting partition!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 
-> Due to issues with DriverUpdater, install drivers after doing RDP setup and rebooting after you see desktop
+<!-- > Due to issues with DriverUpdater, install drivers after doing RDP setup and rebooting after you see desktop -->
 
 > Don't use boot-lisa-host.img for this
 
