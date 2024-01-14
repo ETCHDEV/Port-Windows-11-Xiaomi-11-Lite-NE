@@ -10,7 +10,7 @@
 - [Windows on ARM image (Windows 11 is recommended)](https://uupdump.net/)
 - [Latest UEFI image from release](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases)
 - [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
-- [Drivers](https://github.com/woa-msmnile/Kodiak-Drivers) (Click on the Get Code arrow and Download as zip)
+- [Drivers](https://github.com/ETCHDEV/Kodiak-Drivers) (Click on the Get Code arrow and Download as zip)
 <!--- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest) -->
 
 #### Boot into modified UEFI img using the following command:
