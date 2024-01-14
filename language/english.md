@@ -22,7 +22,7 @@ This project is in an early stage, all the files here have been contributed by o
 - Have [Parted](https://www.mediafire.com/file/s9bjano4pezphou/parted/file) (This file belongs to [Gus33000](https://github.com/gus33000)).
 - Have the script of [Mass Storage Mode](https://www.mediafire.com/file/m4yecbhu9fifjy7/msc.sh/file) (This file belongs to [Gus33000](https://github.com/gus33000) ).
 - Have the [Lisa Uefi](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/tag/v0.0.1) (Only for installing Windows!!!).
-- Have the [Drivers](https://github.com/woa-msmnile/Kodiak-Drivers)
+- Have the [Drivers](https://github.com/ETCHDEV/Kodiak-Drivers)
 <!-- Have the [Drivers](https://github.com/Icesito68/7xx-Drivers) and the [Installer](https://github.com/WOA-Project/DriverUpdater/releases/). -->
 
   </summary>
