@@ -10,8 +10,8 @@
 - [Windows on ARM image (Windows 11 is recommended)](https://uupdump.net/)
 - [Latest UEFI image from release](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases)
 - [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
-- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest)
-- [Drivers](https://github.com/Icesito68/7xx-Drivers) (Click on the Get Code arrow and Download as zip)
+- [Drivers](https://github.com/woa-msmnile/Kodiak-Drivers) (Click on the Get Code arrow and Download as zip)
+<!--- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest) -->
 
 #### Boot into modified UEFI img using the following command:
 ```cmd
@@ -65,17 +65,16 @@ bcdboot W:\Windows /s S: /f UEFI
 ### Install Drivers
 
 > Replace `<lisadriversfolder>` with the actual location of the drivers folder
-
->If you want RDP, Follow this after the first boot
+<!-- > If you want RDP, Follow this after the first boot -->
 
 >Extract the zip file downloaded 
 ```cmd
-.\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\lisa.txt -r <lisadriversfolder> -p W:
+.\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\kodiak.txt -r <lisadriversfolder> -p W:
 ```
 
 >Or if you are in the folder
 ```cmd
-.\driverupdater.exe -d definitions\Desktop\ARM64\Internal\lisa.txt -r . -p W:
+.\driverupdater.exe -d definitions\Desktop\ARM64\Internal\kodiak.txt -r . -p W:
 ```
   
 ## Allow unsigned drivers
