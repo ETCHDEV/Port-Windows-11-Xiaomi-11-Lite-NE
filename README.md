@@ -7,9 +7,9 @@
 
 - [English](language/english.md)
 
+- [Español](language/español.md)
 (Most Language pages aren't updated, they are hidden)
 <!---
-- [Español](language/español.md)
 
 - [简体中文](language/简体中文.md)
 
