@@ -127,3 +127,5 @@ then type `yes`.
 ### The hard part is done!!, Now go to
 
 ## [Next step: Installing Windows](./install-en.md)
+## OR
+## [Next step: Installing Arch Linux](https://github.com/Robotix22/UEFI-Guides/blob/main/Mu-Qcom/OS/Linux/Arch-Linux.md)
