@@ -41,5 +41,6 @@ This project is in an early stage, all the files here have been contributed by o
 - [Troubleshooting](../guide/english/troubleshooting-en.md)
 - [Controlling Windows using RDP](../guide/english/rdp-en.md)
 <!-- [Driver Updating Instructions](../guide/english/update-en.md) -->
+- [Installing Arch Linux](https://github.com/Robotix22/UEFI-Guides/blob/main/Mu-Qcom/OS/Linux/Arch-Linux.md)
 
 
