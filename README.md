@@ -27,6 +27,6 @@
 [<img alt="Robotix22" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98209628?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/Robotix22)
 [<img alt="aistop" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106827114?v=4&w=45&fit=cover&mask=circle&maxage=7d" />](https://github.com/AistopGit)
 [<img alt="Renegade Project Discord Members" src="https://images.weserv.nl/?url=https://cdn.discordapp.com/icons/736563593058713690/68f67bfddf4390b11effc99917b16338.webp?size=256&w=45&fit=cover&mask=circle&maxage=7d" />](https://discord.gg/XXBWfag)
-[<img alt="Mu-Qcom Discord Members" src="https://images.weserv.nl/?url=https://cdn.discordapp.com/icons/998225064984059904/36aa7012bf3cd10a42f68404275f8ca1.webp?size=240&w=45&fit=cover&mask=circle&maxage=7d" />](https://discord.gg/Dx2QgMx7Sv)
+[<img alt="Mu-Qcom Discord Members" src="https://images.weserv.nl/?url=https://cdn.discordapp.com/icons/998225064984059904/737ba866d11ade83389190a32c0983c3.webp?size=240&w=45&fit=cover&mask=circle&maxage=7d" />](https://discord.gg/Dx2QgMx7Sv)
 
 ## You are welcome to contribute for porting windows to the device
