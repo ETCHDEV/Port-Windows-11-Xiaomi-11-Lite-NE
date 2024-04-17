@@ -7,8 +7,6 @@
 
 ## Project Status
 
-### The PEP Driver is the main issue since it BSOD the OS!!!!  
-
 
 
 | Feature             | Description | Working state |
