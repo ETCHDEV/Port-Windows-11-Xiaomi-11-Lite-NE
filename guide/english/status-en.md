@@ -19,10 +19,10 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] GPU `Drivers not working/BSOD`
 - [ ] LTE `5G ACPI Module gets recognized but no cellular`
 - [ ] SD `The SD Card Module gets recognized but no SD Card got recognized`
-- [ ] Touchscreen `PEP not working`
+- [ ] Touchscreen
 - [x] UFS
-- [x] USB `USB Host and Guest Mode Works. Requires changing Dxes and External Power for host mode`
-- [ ] Wi-Fi `Seems to be working on mona` `Work in Progress` 
+- [x] USB `USB Host and Guest Mode Works. Requires External Power for host mode`
+- [ ] Wi-Fi `Work in Progress` 
 
 #### Sensors
 - [ ] Accelerometer
@@ -31,4 +31,3 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] Gyroscope
 - [ ] Light sensor
 - [ ] Magnetometer
-- [ ] Proximity `Not avaliable on lisa`
