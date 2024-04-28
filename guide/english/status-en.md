@@ -31,3 +31,4 @@ Only Windows boots. Nothing currently works and is work in progress. Only window
 - [ ] Gyroscope
 - [ ] Light sensor
 - [ ] Magnetometer
+- [x] Temperature Sensor
