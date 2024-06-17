@@ -8,7 +8,7 @@
 ### Prerequisites
 
 - [Windows on ARM image (Windows 11 is recommended)](https://uupdump.net/)
-- [Latest UEFI image from release](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases)
+- [Latest UEFI image from release](https://github.com/Project-Silicium/Mu-Silicium/releases/)
 - [UEFI image for ONLY installing Windows!!](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/v0.0.1/boot-lisa-install.img)
 - [Drivers](https://github.com/ETCHDEV/Kodiak-Drivers) (Click on the Get Code arrow and Download as zip)
 <!--- [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases/latest) -->
@@ -128,12 +128,14 @@ exit
 ## Boot into Windows
 ### Now boot into the lastest UEFI img:
 
-> Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)
+> ~~Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)~~
 
-> Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices like USB Mouse)
+> ~~Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices like USB Mouse)~~
+
+> No need, Just use Mu-lisa.img.
 
 ```cmd
-fastboot boot path/to/boot-lisa-*.img
+fastboot boot path/to/Mu-lisa.img
 ```
 
 ### Select the first Windows Option to boot
@@ -141,11 +143,13 @@ fastboot boot path/to/boot-lisa-*.img
 ### If Windows rebooted after the setup to android, just go into fastboot the boot the img.
 (I wouldn't recommend to flash the uefi img to boot because currently there is no support for majority of the device hardware and their drivers)
 
-### Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)
-### Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices)
+### ~~Use [boot-lisa-device.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-device.img) for device mode (or you need RDP and WinDbg)~~
+### ~~Use [boot-lisa-host.img](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/releases/download/0.1/boot-lisa-host.img) for Host Mode (If you want to connect USB devices)~~
+### No need, Just use Mu-lisa.img.
 
 ### You can launch programs by placing a batch script in startup folder. (Not required if usb host enabled)
 
 ### OR use [RDP Method](https://github.com/ETCHDEV/Port-Windows-11-Xiaomi-11-Lite-NE/blob/main/guide/english/rdp-en.md)
 (Don't use this method if usb host required)
+
 ## Finished!
