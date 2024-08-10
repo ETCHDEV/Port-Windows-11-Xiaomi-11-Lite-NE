@@ -1,5 +1,6 @@
 <img align="right" src="./lisa.png " width="250" alt="Windows 11 Running On a Mi 11 Lite NE">
 
+# DEVELOPMENT HALTED!!!
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
