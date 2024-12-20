@@ -12,27 +12,27 @@
 | Feature             | Description | Working state |
 |---------------------|-------------|---------------|
 | 📦 UFS                 |             | ✅             |
+| 📦 Sdcard              | Hotplug not supported        | ⚠️            |
 | 📲 Display Panel       |             | ✅             |
 | ⌨️ Side buttons        |             | ✅             |
-| 🔵 Bluetooth           |  |    ✅          |
+| 🔵 Bluetooth           |             |✅          |
 | 📌 GPS                 | Sensor is detected | ✅ |
 | 🧮 SoC Cores           |              | ✅             |
 | 🪵 USB C               | Host and Guest Works. (External Power required for host mode)|  ✅           |
 | 🧭 Sensors             | Only Location working | ✅             |
 | 🌡️ Thermal sensors     |       |  ✅         |
-| 👆 Multi Touch    | Touch Driver fixes and initialization in DSDT |  ❌            |
-| 🔋 Battery             | ACPI and DSDT Fixes       | ❌             |
+| 👆 Multi Touch         |       |  ✅            |
+| 🔋 Battery             | ACPI and DSDT Fixes       |  ✅            |
 | 💤 Modern Standby      | Unknown | ❌             |
-| 🔌 Charger             | ACPI fixes and initialization in DSDT | ❌             |
+| 🔌 Charger             |  |  ✅             |
 | 📳 Vibration motor     | ACPI Fixes and initialization in DSDT| ❌             |
-| 📽️ Miracast            | Requires GPU and requires WiFi | ❌             |
-| ♋ WiFi                | Custom firmware and driver fixes | ❌             |
-| ♋ Cellular Data       | Requires Modem Processor Subsystem | ❌             |
-| ♋ Cellular Texts      | Requires Modem Processor Subsystem | ❌             |
-| ♋ Cellular eSIM       | Requires Modem Processor Subsystem | ❌             |
-| ♋ Cellular Calls      | Requires Modem Processor Subsystem | ❌             |
-| 🎆 GPU                 | Requires Clock Controller fixes (also the driver has a bug that crashes due to display the phone has) | ❌             |
-| ♋ Cellular VoLTE      | Requires Modem Processor Subsystem | ❌             |
+| 📽️ Miracast            | Requires GPU | ❌             |
+| ♋ WiFi                | |  ✅            |
+| ♋ Cellular Data       |  | ✅             |
+| ♋ Cellular Texts      |  | ✅             |
+| ♋ Cellular Calls      |  | ✅             |
+| 🎆 GPU                 | Driver crashes due to display in dsc mode | ❌             |
+| ♋ Cellular VoLTE      |  | ✅             |
 | 🔊 Audio               | Requires Board Database file and Speaker Ic driver | ❌             |
 | 📸 Camera Sensors      | Requires Camera Subsystem | ❌             |
 | 📸 Camera Flash        | Requires Camera Subsystem | ❌             |
