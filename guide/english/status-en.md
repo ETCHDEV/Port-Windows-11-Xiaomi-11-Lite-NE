@@ -5,24 +5,24 @@
 
 ## Project Status
 
-Only Windows boots. Nothing currently works and is work in progress. Only windows is displayed and programs launch by putting a batch script in the Startup folder. BTW Driver Debugging Works. 
+Only Windows boots. Linux is WIP.
 
 #### Features
 
 - [ ] Audio
-- [ ] Battery status
+- [x] Battery status
 - [x] Bluetooth
 - [ ] Brightness
 - [ ] Camera
-- [ ] Charging
+- [x] Charging
 - [x] Display
-- [ ] GPU `Drivers not working/BSOD`
-- [ ] LTE `5G ACPI Module gets recognized but no cellular`
-- [ ] SD `The SD Card Module gets recognized but no SD Card got recognized`
-- [ ] Touchscreen
+- [ ] GPU `Drivers not working/BSOD/Panel is using dsc`
+- [x] LTE/5G
+- [x] SD `Hotplug not supported`
+- [x] Touchscreen
 - [x] UFS
-- [x] USB `USB Host and Guest Mode Works. Requires External Power for host mode`
-- [ ] Wi-Fi `Work in Progress` 
+- [x] USB
+- [x] Wi-Fi
 
 #### Sensors
 - [ ] Accelerometer
