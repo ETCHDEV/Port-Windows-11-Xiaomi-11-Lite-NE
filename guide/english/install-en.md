@@ -52,9 +52,10 @@ exit
 > Replace `<path/to/install.wim>` with the actual path to install.wim, 
 > `install.wim` is located in sources folder inside your ISO (it might also be named `install.esd`), 
 > You can get it either by mounting or extracting the ISO.
+> Open install.wim with 7-zip and look at the XML file inside to check which index corresponds to which version of Windows
 
 ```cmd
-dism /apply-image /ImageFile:<path/to/install.wim> /index:2 /ApplyDir:W:\
+dism /apply-image /ImageFile:<path/to/install.wim> /index:<yourindexnumber> /ApplyDir:W:\
 ```
 
 ### Create Windows bootloader files
@@ -70,12 +71,12 @@ bcdboot W:\Windows /s S: /f UEFI
 
 >Extract the zip file downloaded 
 ```cmd
-.\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\kodiak.txt -r <lisadriversfolder> -p W:
+.\driverupdater.exe -d <lisadriversfolder>\definitions\Desktop\ARM64\Internal\lisa.xml -r <lisadriversfolder> -p W:
 ```
 
 >Or if you are in the folder
 ```cmd
-.\driverupdater.exe -d definitions\Desktop\ARM64\Internal\kodiak.txt -r . -p W:
+.\driverupdater.exe -d definitions\Desktop\ARM64\Internal\lisa.xml -r . -p W:
 ```
   
 ## Allow unsigned drivers
