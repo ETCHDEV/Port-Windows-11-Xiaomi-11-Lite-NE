@@ -2,6 +2,10 @@
 
 # Running Windows on the Mi 11 Lite NE/Mi 11 LE
 
+
+# FOLLOW THIS GUIDE BY SOG THE GRATE FOR NOW: [Guide](https://github.com/n00b69/woa-lisa)
+
+<!---
 ## Choose you language
 
 - [English](language/english.md)
