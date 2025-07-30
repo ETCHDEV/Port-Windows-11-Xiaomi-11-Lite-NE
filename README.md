@@ -4,6 +4,7 @@
 
 
 # FOLLOW THIS GUIDE BY SOG THE GRATE FOR NOW: [Guide](https://github.com/n00b69/woa-lisa)
+# AND NO!!! GPU ISN'T WORKING HAS OF NOW
 
 <!---
 ## Choose you language
